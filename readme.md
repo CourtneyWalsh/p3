@@ -8,7 +8,7 @@ p3.courtneywalsh15.com
 This application generates Lorem Ipsum text and fake user information for web developers to use to help test their programs.
 
 <h2>Demo Information:</h2>
-
+During Section October 29th
 
 <h2>Outside Code</h2>
 
@@ -18,3 +18,4 @@ Badcow Lorem Ipsum generator: https://packagist.org/packages/badcow/lorem-ipsum
 fzanninotto faker: https://packagist.org/packages/fzaninotto/faker
 Headerimage: http://hdw.eweb4.com/search/tumblr/
 CpAnimatedHeader: http://www.codrops.com
+
