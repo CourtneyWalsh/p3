@@ -20,7 +20,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="index">Home</a>
+                        <a class="page-scroll" href="/index">Home</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="/generate_ipsum">Lorem Ipsum Generator</a>
