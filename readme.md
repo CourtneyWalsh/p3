@@ -8,7 +8,7 @@ p3.courtneywalsh15.com
 This application generates Lorem Ipsum text and fake user information for web developers to use to help test their programs.
 
 <h2>Demo Information:</h2>
-During Section October 29th
+http://screencast.com/t/oNiSFwRyBa2
 
 <h2>Outside Code</h2>
 
